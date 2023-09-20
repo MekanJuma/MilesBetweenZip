@@ -5,6 +5,8 @@ MilesBetweenZip is a Python-based program that allows users to determine the cit
 - Fetch city and state details for a given ZIP code.
 - Calculate accurate driving distances between two ZIP codes using the Google Maps API.
 - Designed for easy integration into applications requiring ZIP-based location data and route planning.
+- NEW: Google Sheet Function to calculate the distance between two ZIP codes
+- NEW: Google Sheet Function to get city and state names of ZIP codes
 
 # Pre-requisites
 Before you start using MilesBetweenZip, you need to obtain a Google Maps API key. The driving distance calculation relies on the Google Maps API to provide accurate results.
